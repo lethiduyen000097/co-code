@@ -13,10 +13,9 @@ function App() {
       </nav>
       <main className="App-main">
         <p>Dịch vụ vườn - Lê Nguyễn Hữu Duyên kính chào quý khách tới thăm quan Vườn.</p>
-        <p>Dịch vụ vườn là nơi bạn có thể thăm quan vườn thông minh từ mọi nơi. Ở dịch vụ vườn bạn có thể chăm sóc cây trồng của mình từ một nơi xa qua hệ thống chăm sóc thông minh. Ở dịch vụ vườn bạn có thể mua ngay nông sản hiện đang được trồng tại vườn và được chuyển tới quý vị trong thời gian thuận tiện nhất. Dịch vụ vườn - Lê Nguyễn Hữu Duyên cảm ơn quý bạn đã tin tưởng, sử dụng dịch vụ của chúng tôi !</p>
-        <p></p>
-        <p></p>
-        <p></p>
+        <p>
+          <i>"Dịch vụ vườn là nơi bạn có thể thăm quan vườn thông minh từ mọi nơi. Ở dịch vụ vườn bạn có thể chăm sóc cây trồng của mình từ một nơi xa qua hệ thống chăm sóc thông minh. Ở dịch vụ vườn bạn có thể mua ngay nông sản hiện đang được trồng tại vườn và được chuyển tới quý vị trong thời gian thuận tiện nhất.<br /> Dịch vụ vườn - Lê Nguyễn Hữu Duyên cảm ơn quý bạn đã tin tưởng, sử dụng dịch vụ của chúng tôi !"</i>
+        </p>
       </main>
       <footer className="App-footer">
         <small>Hỗ trợ kỹ thuật: 0375893542 </small>
